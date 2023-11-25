@@ -1,0 +1,14 @@
+Constants and Macros:
+It defines a constant for the mathematical value of pi.
+It provides a macro to calculate the number of elements in an array.
+
+Function Definitions:
+Several functions are defined, including mathematical functions like tangent, and conversion functions for degrees to radians and radians to degrees.
+
+AutoLISP Integration:
+Functions are organized in a table for use in AutoLISP commands.
+There are functions to load these functions into AutoCAD and execute them when called from AutoLISP.
+
+Extended Alert Function:
+It introduces an extended alert function that allows showing customizable message boxes with options like message, caption, buttons, and icons.
+Overall, this code enhances AutoLISP capabilities in AutoCAD by providing additional mathematical functions and a more flexible alert function.
