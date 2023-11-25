@@ -1,1 +1,3 @@
-
+1.Built the debug version of the AutoCAD project in Visual Studio.
+2.Loaded the ObjectARX file using the "APPLOAD" command in the AutoCAD command line.
+3.Unloaded the feature after use by clicking on the "Unload" command in the Appload window.
