@@ -1,1 +1,5 @@
-
+1.Created a new ObjectARX project in Microsoft Visual Studio as an MFC Dynamic Link-Library with a DLL extension.
+2.Configured the project to build an ObjectARX application by making necessary changes in the C++ and Linker properties.
+3.Added all required libraries in the project's properties settings.
+4.Defined the acrxEntryPoint function.
+5.Implemented code to display the message "Hello in the world of AutoCAD" when the command "MYCOMMAND" is entered in AutoCAD.
