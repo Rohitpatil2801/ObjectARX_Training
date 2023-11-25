@@ -1,1 +1,3 @@
-
+1.This code defines a function (addLine) that, when executed, adds a straight line to the current AutoCAD drawing.
+2.The line starts at the point (7.0, 3.0, 0.0) and ends at the point (15.0, 3.0, 0.0).
+3.The line is added to the Model Space of the drawing, which is a common workspace for creating and organizing geometry in AutoCAD.
