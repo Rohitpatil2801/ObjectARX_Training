@@ -1,1 +1,3 @@
-
+1.Defined a function named "MyCommand" to display the message "Hello Rohit in the world of AutoCAD" when
+ the user enters the command in the AutoCAD command line.
+2.Registered the command as "MYCOMMAND" within the custom group "MyGroup".
