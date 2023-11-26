@@ -1,4 +1,3 @@
-[21:53] Kunal More
 # AutoCAD ObjectARX Application - Make Layer
  
 ## Overview
