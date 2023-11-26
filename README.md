@@ -1,4 +1,4 @@
-# ObjectARX Practice Assignments Repository
+# ObjectARX Assignments Repository
  
 ## Overview
  
